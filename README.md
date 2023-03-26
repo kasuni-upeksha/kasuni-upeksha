@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kasuni Upeksha Wickramarathne</h1>
 <h3 align="center">I am following a BICT degree in University of Ruhuna in Sri Lanka.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <a href="https://twitter.com/kasuni upeksha422" target="blank"><img src="https://img.shields.io/twitter/follow/kasuni upeksha422?logo=twitter&style=for-the-badge" alt="kasuni upeksha422" /></a> </p>
