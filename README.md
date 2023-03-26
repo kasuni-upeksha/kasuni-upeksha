@@ -1,7 +1,10 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Kasuni Upeksha Wickramarathne</h1>
 
 # 💫 About Me:
+
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 🔭 I’m currently working on ICT & QA Industries<br>👯 I’m looking to collaborate on QA Industry<br>🤝 I am following a BICT degree in University of Ruhuna in Sri Lanka<br>🌱 I’m currently learning Selenium<br>💬 Ask me about ICT<br>⚡ Fun fact - I am like to live in funny but with smart
