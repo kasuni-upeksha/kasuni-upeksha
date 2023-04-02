@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-🔭 I’m currently working on ICT & QA Industries<br>👯 I’m looking to collaborate on QA Industry<br>🤝 I am following a BICT degree in University of Ruhuna in Sri Lanka<br>🌱 I’m currently learning Selenium<br>💬 Ask me about ICT<br>⚡ Fun fact - I am like to live in funny but with smart
+🔭 I’m currently working on ICT & QA Industries<br>👯 I’m looking to collaborate on QA Industry<br>🤝 I am following a BICT degree in University of Ruhuna in Sri Lanka<br> <b>You Can Connect with me using kasuniupeksha422@gmail.com</b></br>🌱 I’m currently learning Selenium<br>💬 Ask me about ICT<br>⚡ Fun fact - I am like to live in funny but with smart
 
 
 
